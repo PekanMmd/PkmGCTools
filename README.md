@@ -1,4 +1,5 @@
 # PkmGCTools
+# This branch is for use with Pokemon XG: Next Gen, a hack of XD
 Tools for Pokémon Colosseum and Pokémon XD.
 
 This repository currently include:
